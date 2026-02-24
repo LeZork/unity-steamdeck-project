@@ -1,0 +1,3 @@
+VERSION=1.0.0
+DATE=2026-02-24
+CHANGES=Первый релиз для Steam Deck
